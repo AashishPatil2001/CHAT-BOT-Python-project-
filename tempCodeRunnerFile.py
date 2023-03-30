@@ -1,0 +1,1 @@
+self.root.geometry("730*620+0+0")
